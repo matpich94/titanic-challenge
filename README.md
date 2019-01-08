@@ -10,3 +10,13 @@ The main script is the file titanic_main.ipynb.
 The script extraction.ipynb is used to extract the data from the csv.files
 The script prepareData.ipynb is used to prepare the data: split them into training and test set, carry out PCA
 The script confusion_matrix.ipynb is used to draw a confusion matrix by taking in input the predicted and the real labes of the test set.
+
+## Libraries
+
+numpy / sklearn
+
+## Functions
+
+confusion_matrix.ipynb : creates nice confusion matrices
+extraction.ipynb : extract the data from the csv.files
+prepareData.ipynb : pre-process the data
